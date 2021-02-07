@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">NotesBuddy</h1>
 
-[![License](https://img.shields.io/github/license/DhawalKhapre/NotesBuddy?color=blue&logo=git)](https://github.com/DhawalKhapre/DriveBuddy/blob/main/LICENSE)
+[![License](https://img.shields.io/github/license/DhawalKhapre/NotesBuddy?color=blue&logo=git)](https://github.com/DhawalKhapre/NotesBuddy/blob/main/LICENSE)
 [![Language](https://img.shields.io/badge/Language-Python3.x-brightgreen)](https://github.com/DhawalKhapre/NotesBuddy/search?l=python)
 </div>
 
